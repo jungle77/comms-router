@@ -2,9 +2,9 @@
 
 ## Overview
 
-Comms Router is a system that distributes tasks to task handling entities (agents). A task is characterized by a set of skills needed for its accomplishment. Tasks are handled by agents. Agents have diferent skills, and therefore different agents can handle different tasks. Tasks are routed to agents via queues. Plans define how a task is managed by the router selecting a queue for it.
+Comms Router is a system that distributes tasks to task handling entities (agents). A task is characterized by a set of skills needed for its accomplishment. Tasks are handled by agents. Agents have different skills, and therefore different agents can handle different tasks. Tasks are routed to agents via queues. Plans define how a task is managed by the router selecting a queue for it.
 
-![](assets/README-6cf6d.png)
+![](assets/README-7ab4b.png)
 
 A [demo application](demo-application/README.md) shows how to apply the router to build a call center.
 
